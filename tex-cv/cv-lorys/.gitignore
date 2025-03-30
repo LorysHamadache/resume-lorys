@@ -1,0 +1,16 @@
+# general latex build output files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.xdv
+*.toc
+
+/output
+
+# release tarballs
+moderncv-*.tar.gz
